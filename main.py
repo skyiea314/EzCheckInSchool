@@ -13,6 +13,14 @@ username = input()
 userid = input()
 sckey = input()
 templateid = "clockSign3"
+print(deptId)
+print(deptText)
+print()
+print()
+print()
+print()
+print()
+print()
 # 时间判断
 now = (time.localtime().tm_hour + 8) % 24
 if (now >= 6) & (now < 8):
