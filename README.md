@@ -1,7 +1,7 @@
 # EzCheckInSchool
 完美校园自动打卡一天三次校内版。
 
-# 使用方法
+# 使用方法      
 首先，点击右上角Star并Fork，fbgfshfgdnfgdht
 
 接下来抓包完美校园打卡内容，本文使用Fiddler代理手机抓包
